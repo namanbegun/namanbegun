@@ -52,3 +52,14 @@ Here are some ideas to get you started:
 </a>
 
 ##
+  
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/namanbegun">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanbegun&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="namanbegun">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=namanbegun&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alok's GitHub Stats" />
+</a>
+
+  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=namanbegun&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  

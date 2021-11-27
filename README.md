@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://scontent.fidr4-2.fna.fbcdn.net/v/t31.18172-8/26170620_275904482935855_2758625038738947284_o.jpg?_nc_cat=104&ccb=1-5&_nc_sid=973b4a&_nc_ohc=rkDVBaQkvsUAX8Nx0VV&_nc_ht=scontent.fidr4-2.fna&oh=17422fdd9851741697868b32e8c6c546&oe=61C7E2A7)
+<!-- ![Header](https://scontent.fidr4-2.fna.fbcdn.net/v/t31.18172-8/26170620_275904482935855_2758625038738947284_o.jpg?_nc_cat=104&ccb=1-5&_nc_sid=973b4a&_nc_ohc=rkDVBaQkvsUAX8Nx0VV&_nc_ht=scontent.fidr4-2.fna&oh=17422fdd9851741697868b32e8c6c546&oe=61C7E2A7) -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=namanbegun&label=Profile%20views&color=0e75b6&style=flat" alt="alok722" /> </p>
+
 ### ⚡ About Me: 
 - 👨🏻‍💻 <samp>Currently pursuing B.E in Electronics & Telecommunication Engineering(2018-2022)
 - 🎶 <samp>I'm Deliberately looking for DevOps and Data Science related Opportunities.
